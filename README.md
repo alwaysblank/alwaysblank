@@ -15,7 +15,7 @@ Perhaps you'll find some of them useful!
 Perhaps not.
 But here they are anyway.
 
-- **[11in](https://github.com/11in)** - The core item here is [elfin](Elfin) which is a sort of starter kit for [11ty](https://11ty.dev) that I built to make my life easier.
+- **[11in](https://github.com/11in)** - The core item here is [https://github.com/11in/elfin](Elfin) which is a sort of starter kit for [11ty](https://11ty.dev) that I built to make my life easier.
     Also in that organization are some related packages that add or modify various bits of functionality.
     Useful stuff if you're into static sites, or want to get into static sites.
 - **plumbing** - These are several different tiny packages I made to help with small tasks in WordPress that I kept "solving".
