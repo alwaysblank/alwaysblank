@@ -1,6 +1,6 @@
 ## Hi Friends
 
-I'm a Senior Web Engineer at [Human Made](https://humanmade.com/), and I [help out users](https://discourse.roots.io/) of the Roots stack as part of the [Roots team](https://github.com/roots) (and occasionally contribute code). I like writing code and documentation.
+I'm a programmer and taco enthusiast, and I [help out users](https://discourse.roots.io/) of the Roots stack as part of the [Roots team](https://github.com/roots) (and occasionally contribute code). I like writing code and documentation.
 
 When I'm not doing those things, I enjoy 
 
