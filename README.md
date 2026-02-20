@@ -1,6 +1,6 @@
 ## Hi Folks
 
-I'm a programmer and taco enthusiast, and I [help out users](https://discourse.roots.io/) of the Roots stack as part of the [Roots team](https://github.com/roots) (and occasionally contribute code). I like writing code and documentation.
+I'm a software engineer and a taco enthusiast. I like writing code and documentation. Additionally I'm a big fan of natural fibers (for my clothing, but beans are nice too).
 
 When I'm not doing those things, I enjoy 
 
