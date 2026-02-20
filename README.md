@@ -6,7 +6,7 @@ When I'm not doing those things, I enjoy
 
 - 📷 [amateur photography](https://photos.alwaysblank.org) 
 - ☕ [coffee](https://www.nossacoffee.com/)
-- 🐕 hanging out with my dogs
+- 🐕 hanging out with my dog
 
 ### Things I've Built
 
